@@ -12,40 +12,40 @@
 [code_climate]: https://codeclimate.com/github/tootsuite/mastodon
 [crowdin]: https://crowdin.com/project/mastodon
 [docker]: https://hub.docker.com/r/tootsuite/mastodon/
+これは日本語訳です（できる範囲の）※機械翻訳と自分でわかる範囲です　意訳しているので、本家のレポジトリを参照してください
+マストドンはActivityPubを利用した**無料のオープンソースソーシャルネットワークサーバーです。**友達をフォローして新しい友達を見つけましょう！ リンク、写真、文章、ビデオなど、必要なものをすべて公開できます。全てのマストドンサーバーは”連合”を利用した相互運用が可能です。つまり、あるサーバーのユーザーは、ほかのサーバーのユーザーとシームレスに通信することができるのです！ActivityPubを利用しているほかのソフトウェアとも通信できます。
 
-Mastodon is a **free, open-source social network server** based on ActivityPub. Follow friends and discover new ones. Publish anything you want: links, pictures, text, video. All servers of Mastodon are interoperable as a federated network, i.e. users on one server can seamlessly communicate with users from another one. This includes non-Mastodon software that also implements ActivityPub!
-
-Click below to **learn more** in a video:
+**もっと知りたい**方はこちらの動画をご覧ください。
 
 [![Screenshot](https://blog.joinmastodon.org/2018/06/why-activitypub-is-the-future/ezgif-2-60f1b00403.gif)][youtube_demo]
 
 [youtube_demo]: https://www.youtube.com/watch?v=IPSbNdBmWKE
 
-## Navigation
+## ナビゲーション
 
-- [Project homepage 🐘](https://joinmastodon.org)
-- [Support the development via Patreon][patreon]
-- [View sponsors](https://joinmastodon.org/sponsors)
-- [Blog](https://blog.joinmastodon.org)
-- [Documentation](https://docs.joinmastodon.org)
-- [Browse Mastodon servers](https://joinmastodon.org/#getting-started)
-- [Browse Mastodon apps](https://joinmastodon.org/apps)
+- [マストドン公式ホームページ🐘](https://joinmastodon.org)
+- [Patreonで寄付する][patreon]
+- [スポンサー](https://joinmastodon.org/sponsors)
+- [ブログ](https://blog.joinmastodon.org)
+- [ドキュメント](https://docs.joinmastodon.org)
+- [マストドンサーバー一覧 ](https://joinmastodon.org/#getting-started)
+- [マストドンアプリ一覧](https://joinmastodon.org/apps)
 
 [patreon]: https://www.patreon.com/mastodon
 
-## Features
+## 特徴
 
 <img src="https://docs.joinmastodon.org/elephant.svg" align="right" width="30%" />
 
-**No vendor lock-in: Fully interoperable with any conforming platform**
+**互換性のあるプラットフォームと完全に相互運用可能**
 
-It doesn't have to be Mastodon, whatever implements ActivityPub is part of the social network! [Learn more](https://blog.joinmastodon.org/2018/06/why-activitypub-is-the-future/)
+マストドンは互換性のあるプラットフォームと完全に相互運用可能です。[Learn more](https://blog.joinmastodon.org/2018/06/why-activitypub-is-the-future/)
 
-**Real-time, chronological timeline updates**
+**リアルタイムタイムライン**
 
-See the updates of people you're following appear in real-time in the UI via WebSockets. There's a firehose view as well!
+WebSocketsを利用したタイムラインでフォローしているユーザーのトゥートを見ることができます。
 
-**Media attachments like images and short videos**
+**メディアアタッチメント**
 
 Upload and view images and WebM/MP4 videos attached to the updates. Videos with no audio track are treated like GIFs; normal videos are looped - like vines!
 
