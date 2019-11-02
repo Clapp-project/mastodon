@@ -29,7 +29,7 @@ ja:
     server_stats: 'サーバー統計:'
     source_code: ソースコード
     status_count_after:
-      other: トゥート
+      other: トゥートする
     status_count_before: トゥート数
     tagline: Follow friends and discover new ones
     terms: 利用規約
@@ -120,7 +120,7 @@ ja:
       header: ヘッダー
       inbox_url: Inbox URL
       invited_by: 招待した人
-      ip: IP
+      ip: IPアドレス
       joined: 登録日
       location:
         all: すべて
