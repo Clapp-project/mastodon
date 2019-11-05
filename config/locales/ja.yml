@@ -778,7 +778,7 @@ ja:
       following: フォロー中のアカウントリスト
       muting: ミュートしたアカウントリスト
     upload: アップロード
-  in_memoriam_html: 故人を偲んで。
+  in_memoriam_html: 故人を偲んで。We miss you.
   invites:
     delete: 無効化
     expired: 期限切れ
@@ -1037,7 +1037,7 @@ ja:
   stream_entries:
     pinned: 固定されたトゥート
     reblogged: さんがブースト
-    sensitive_content: 閲覧注意
+    sensitive_content: 閲覧注意コンテンツです
   tags:
     does_not_match_previous_name: 以前の名前と一致しません
   terms:
